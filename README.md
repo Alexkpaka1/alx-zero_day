@@ -1,1 +1,1 @@
-Collaboration: be up to date
+Collaboration: be up_to_date
